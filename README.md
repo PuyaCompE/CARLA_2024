@@ -1,7 +1,7 @@
 # Human-Aware Automotive Testbed with CARLA Driving Simulator
 
 ## Overview
-This project aims to advance human-in-the-loop experimentation by developing a custom-built automotive testbed that integrates physical and virtual simulation environments. Leveraging the CARLA open-source driving simulator, this platform enables comprehensive analysis of driver behavior and interaction under varied scenarios, contributing to the design of safer and more intuitive vehicular systems.
+This project aims to advance human-in-the-loop experimentation by developing a custom-built automotive testbed that integrates physical and virtual simulation environments. Utilizing the CARLA open-source driving simulator, this platform enables comprehensive analysis of driver behavior and interaction under varied scenarios.
 
 ## Features
 
@@ -10,6 +10,7 @@ This project aims to advance human-in-the-loop experimentation by developing a c
 - **Steering Wheel & Pedals**: Simulates real-world vehicle controls.
 - **Triple-Monitor Setup & VR Headset**: Offers high-fidelity visual simulation for enhanced situational awareness.
 - **PC Station**: Runs the CARLA driving simulator and handles data collection and analysis.
+- **VR Headset**: Option to operate the simulation using VR headset.
 
 ### Biometric Data Collection
 To enhance data accuracy and insights, the system integrates:
