@@ -47,3 +47,6 @@ This project is developed as part of ongoing research at the **Pervasive Autonom
 For questions or collaboration opportunities, reach out to **Puya Fard** at [puyafard217@gmail.com](mailto:puyafard217@gmail.com).
 
 ---
+
+## User Guide Video
+Link: https://drive.google.com/file/d/1D36M9qqZGKW5sVPGk9o154fWV5sfhiRo/view?usp=sharing
